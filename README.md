@@ -2,7 +2,7 @@
 
 ### Installation Tutorial
 
-#### 1. Install python, I am using Python 3.12.10 (https://www.python.org/downloads/release/python-31210/)
+#### 1. Install python, I am using [Python 3.12.10](https://www.python.org/downloads/release/python-31210/)
 
 #### 2. Clone the GitHub Repository:
 ```bash
