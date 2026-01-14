@@ -67,7 +67,13 @@ pip install -r requirements.txt
 ```
 This installs all the required Python libraries listed in the `requirements.txt` file.
 
-#### 8. Install eSpeak NG
+#### 8. Download Kokoro voices
+```bash
+python download_all_kokoro_voices.py
+```
+This will download all the available voice packs.
+
+#### 9. Install eSpeak NG
 
 - **For Windows:**
   1. Download the latest eSpeak NG release from the [eSpeak NG GitHub Releases](https://github.com/espeak-ng/espeak-ng/releases/tag/1.51).
